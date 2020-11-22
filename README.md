@@ -1,7 +1,7 @@
 # DatabaseProject
 # Group #19
 Group Member: Brandon Masluk,
-/n Team Name: Deafening Solitude
+Team Name: Deafening Solitude
 # TOC:
 # Scope Paragraph
 # Use Case
