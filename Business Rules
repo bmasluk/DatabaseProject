@@ -11,3 +11,4 @@ Business Rules
 10. Person Table only includes campus Students, Faculty and Staff.
 11. Rating System allows for customers to remain anonymous when rating their experience with both drivers and restaurants.
 12. Ratings for Drivers and Restaurants are stored separately.
+13. Customers may choose not to rate their experience.
