@@ -1,0 +1,11 @@
+Business Rules
+
+1. Customers can place one or many orders, but each order must be tied to only one customer.
+2. A delivery may contain many orders but an order can only be a part of one delivery.
+3. Orders can go to one and only one place, and a given place can have zero to many orders associated with it.
+4. Restaurants and Drivers are rated separately by the customer who placed the order.
+5. A driver can be associated with many deliveries, but a delivery may only be associated with one driver.
+6. A vehicle can be associated with many deliveries, but a delivery may only be associated with one vehicle.
+8. Only students may be Drivers.
+9. A restaurant can be associated with many orders, but orders may only be associated with one restaurant.
+10. Person Table only includes campus Students, Faculty and Staff.
