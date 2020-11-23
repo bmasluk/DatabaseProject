@@ -5,8 +5,8 @@ Brandon Masluk
 
 Project Description: 
 	In the face of a pandemic and in the interests of campus safety, CampusEats is being created in order to facilitate the order and delivery of meals to students,
-  faculty and staff on campus. The database will be used for various data analyzation applications as well, including monitoring the nutrition data of college students, 
-  but as it stands the system is just a prototype. My team will be expanding this prototype to include a rating system for customers to rate their delivery driver as well
+  faculty and staff on campus. The database will be used for various data analyzation applications as well, including monitoring the dining preferences of students, 
+  but as it stands the system is just a prototype. My team (I) will be expanding this prototype to include a rating system for customers to rate their delivery driver as well
   as the restaurant they ordered from. These ratings will be viewable by other customers and the CampusEats administrators.
 
 Project Objectives:
@@ -14,7 +14,7 @@ Project Objectives:
   a.	Use Case Diagram
   b.	Business Rules
   c.	EERD (3rd Normal Form)
-  d.	Data Dictionary
+  d.	Data Dictionary (HTML File)
 
 2.	Deliverable 3 (Due: Dec. 6th)
 
