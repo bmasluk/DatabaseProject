@@ -10,3 +10,4 @@ Business Rules
 9. A restaurant can be associated with many orders, but orders may only be associated with one restaurant.
 10. Person Table only includes campus Students, Faculty and Staff.
 11. Rating System allows for customers to remain anonymous when rating their experience with both drivers and restaurants.
+12. Ratings for Drivers and Restaurants are stored separately.
