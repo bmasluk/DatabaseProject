@@ -1,0 +1,5 @@
+CampusEats is a prototype for a Campus Delivery Service that allows Students and Faculty to place restaurant orders and have it delivered to specific Campus Locations
+or their offices/dorms. Through the addition of a rating system, the service seeks to allow people the option to review the restaurant, the delivery, or both.
+When fully functional, customers will be able to place an order, which will then be recorded and facilitated by the CampusEats service. Upon receiving the order,
+customers may choose whether or not to review their experience. If a rating is left by a customer, that rating is then catalogued by the CampusEats database for 
+qualitative analysis of the services delivery drivers and partnered restaurants.
